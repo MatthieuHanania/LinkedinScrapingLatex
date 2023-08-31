@@ -1,0 +1,5 @@
+{
+    "_instructions": "Specify the names and the Linkedin ID of the users whose information you wish to extract. {Name:Linkedin Url,...}",
+    
+    "user_ids": {"Matthieu":"matthieu-hanania-6835ba177"}
+}
